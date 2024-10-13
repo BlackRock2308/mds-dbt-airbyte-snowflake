@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: mds
+    database: airbyte_database
+    schema: airbyte_schema
+    tables:
+      - name: CONSOMMATION_ENERGIE
+        columns:
+          - name: id
+            data_tests:
+              - unique
+              - not_null
+      
