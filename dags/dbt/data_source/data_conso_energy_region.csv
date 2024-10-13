@@ -1,0 +1,20 @@
+id,annee,filiere,libelle_categorie_consommation,libelle_grand_secteur,conso,pdl,code_region,conso / pdl
+1,2020,Electricité,Entreprises,Tertiaire,135719.2771,131,84,1036.0250160305343
+2,2020,Electricité,Entreprises,Tertiaire,1204.307968,23,84,52.361216000000006
+3,2020,Electricité,Entreprises,Tertiaire,17371.36323,231,84,75.20070662337662
+4,2020,Electricité,Entreprises,Tertiaire,106935.3465,797,84,134.17232936010038
+5,2020,Electricité,Entreprises,Tertiaire,62186.18198,582,84,106.84910993127149
+6,2020,Electricité,Entreprises,Secteur Inconnu,6634.348055,121,84,54.82932276859504
+7,2020,Electricité,Petits professionels,Agriculture,390022.7856,34533,84,11.2942051255321
+8,2020,Electricité,Petits professionels,Secteur Inconnu,228033.5269,37973,84,6.005149103310247
+9,2020,Electricité,Résidentiel,Résidentiel,18964849.17,4152567,84,4.567018225112323
+10,2020,Electricité,Entreprises,Agriculture,165938.5212,1388,93,119.55224870317002
+11,2020,Electricité,Entreprises,Industrie,81973.63397,98,93,836.465652755102
+12,2020,Electricité,Entreprises,Industrie,124359.2553,269,93,462.30206431226765
+13,2020,Electricité,Entreprises,Industrie,20213.13193,16,93,1263.320745625
+14,2020,Electricité,Entreprises,Industrie,11793.69868,33,93,357.38480848484846
+15,2020,Electricité,Entreprises,Industrie,6105.851607,39,93,156.5602976153846
+16,2020,Electricité,Entreprises,Tertiaire,59604.7096,158,93,377.2449974683544
+17,2020,Electricité,Entreprises,Tertiaire,222.5372317,7,93,31.7910331
+18,2020,Electricité,Entreprises,Tertiaire,1127159.238,3640,93,309.6591313186813
+19,2020,Electricité,Entreprises,Tertiaire,13387.31051,15,93,892.4873673333333
